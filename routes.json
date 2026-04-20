@@ -3,7 +3,8 @@
     "id": "1",
     "name": "Rusałka Loop",
     "description": "Świetna trasa biegowa dookoła jeziora Rusałka w Poznaniu. Dystans ok. 4.5 km. Nawierzchnia szutrowa, brak większych wzniesień.",
-    "type": "RUNNING"
+    "type": "RUNNING",
+    "imageUrl": "https://wiartel.pl/wp-content/uploads/2022/04/1024px-Jezioro_Nidzkie_2-1024x512.jpg"
   },
   {
     "id": "2",
