@@ -4,55 +4,62 @@
     "name": "Pętla wokół Jeziora Maltańskiego",
     "description": "Klasyczna, w pełni utwardzona (asfalt i kostka) trasa o długości około 5,4 km. Idealna na szybki trening biegowy, oferuje płaski profil, świetne widoki na wodę oraz oświetlenie po zmroku. Najpopularniejsze miejsce dla lokalnych biegaczy.",
     "type": "RUNNING",
-    "imageUrl": ""
+    "imageUrl": "https://www.lepszypoznan.pl/wp-content/uploads/2022/10/8lggwF.jpg"
   },
   {
     "id": 2,
     "name": "Wartostrada",
     "description": "Wygodna, asfaltowa trasa ciągnąca się po obu brzegach Warty. Pozwala na długie, bezkolizyjne bieganie z dala od ruchu ulicznego. Oferuje piękną panoramę centrum miasta, Ostrowa Tumskiego i rzeki.",
     "type": "RUNNING",
-    "imageUrl": ""
+    "imageUrl": "https://bi.im-g.pl/im/a0/d6/1a/z28140960AMP,Wartostarda-w-Poznaniu--Widok-z-mostu-Krolowej-Jad.jpg"
   },
   {
     "id": 3,
     "name": "Leśne ścieżki Rusałki",
     "description": "Około 4,3-kilometrowa pętla wokół jeziora Rusałka. W większości miękka, szutrowa i leśna nawierzchnia, co czyni ją idealną dla osób szukających odpoczynku od twardego betonu. Bardzo malownicza i zacieniona latem.",
     "type": "RUNNING",
-    "imageUrl": ""
+    "imageUrl": "https://myvoyage.pl/wp-content/uploads/2020/04/jezioro-rusalka-poznan-min.jpg"
   },
   {
     "id": 4,
     "name": "Alejki Parku Cytadela",
     "description": "Największy park w Poznaniu oferujący kilometry krzyżujących się, zróżnicowanych alejek. Lekko pofałdowany teren i liczne, zacienione ścieżki sprawiają, że to świetne miejsce na dłuższe wybiegania z elementami podbiegów.",
     "type": "RUNNING",
-    "imageUrl": ""
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-U9_M-aPomk4XeGh-vFy2gGkYHfueSH0z7A&s"
   },
   {
     "id": 5,
-    "name": "Rowerem do Wielkopolskiego Parku Narodowego",
+    "name": "Wielkopolski Park Narodowy",
     "description": "Dłuższa trasa prowadząca z południowych granic Poznania w stronę Puszczykowa i serca WPN-u. Oferuje bardzo zróżnicowany teren: leśne ścieżki, szutry i pagórki wokół Jeziora Góreckiego. Wymaga roweru MTB lub gravel.",
     "type": "CYCLING",
-    "imageUrl": ""
+    "imageUrl": "https://slowroad.pl/wp-content/uploads/sites/23/2024/06/MG_5959RN.jpg"
   },
   {
     "id": 6,
-    "name": "Szlakiem trzech jezior: Strzeszynek i Kiekrz",
+    "name": "Szlakiem trzech jezior",
     "description": "Przyjemna trasa rowerowa przez północno-zachodnie zielone kliny Poznania. Rozpoczynając od Rusałki, przejeżdża się leśnymi duktami nad Jezioro Strzeszyńskie, a stamtąd do malowniczego, żeglarskiego Jeziora Kierskiego.",
     "type": "CYCLING",
-    "imageUrl": ""
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQon6A7mXvEEgDZzyl3czGAbq05spTCH3Mpw&s"
   },
   {
     "id": 7,
-    "name": "Pierścień Rowerowy (Fragment Północny i Puszcza Zielonka)",
+    "name": "Pierścień Rowerowy",
     "description": "Wymagający odcinek wylotowy z miasta w kierunku Dziewiczej Góry i Puszczy Zielonki. Trasa oferuje gęste lasy, odcinki piaszczyste i jedne z największych przewyższeń w okolicach Poznania. Wybitna trasa dla miłośników jazdy terenowej.",
     "type": "CYCLING",
-    "imageUrl": ""
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdMusNlQJOFnWi5ca3fsZxfECZevZRamtKOw&s"
   },
   {
     "id": 8,
-    "name": "Wzdłuż Cybiny do Swarzędza",
+    "name": "Przez Cybinę do Swarzędza",
     "description": "Spokojna, rodzinna trasa rowerowa zaczynająca się za Jeziorem Maltańskim, prowadząca wschodnim klinem zieleni wzdłuż rzeki Cybiny, aż do Doliny Cybiny i urokliwego Jeziora Swarzędzkiego.",
     "type": "CYCLING",
-    "imageUrl": ""
+    "imageUrl": "https://www.mojswarzedz.pl/joomla/images/galeria/jezioro/jezioro%20Swarzedz%20(21).JPG"
   }
+  {
+    "id": 9,
+    "name": "Wartostrada",
+    "description": "Asfaltowa trasa rowerowa wzdłuż rzeki Warty. Idealna na szybki trening szosowy z dala od ruchu samochodowego.",
+    "type": "CYCLING",
+    "imageUrl": "https://bi.im-g.pl/im/a0/d6/1a/z28140960AMP,Wartostarda-w-Poznaniu--Widok-z-mostu-Krolowej-Jad.jpg"
+  },
 ]
