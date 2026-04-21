@@ -54,12 +54,12 @@
     "description": "Spokojna, rodzinna trasa rowerowa zaczynająca się za Jeziorem Maltańskim, prowadząca wschodnim klinem zieleni wzdłuż rzeki Cybiny, aż do Doliny Cybiny i urokliwego Jeziora Swarzędzkiego.",
     "type": "CYCLING",
     "imageUrl": "https://www.mojswarzedz.pl/joomla/images/galeria/jezioro/jezioro%20Swarzedz%20(21).JPG"
-  }
+  },
   {
     "id": 9,
     "name": "Wartostrada",
     "description": "Asfaltowa trasa rowerowa wzdłuż rzeki Warty. Idealna na szybki trening szosowy z dala od ruchu samochodowego.",
     "type": "CYCLING",
     "imageUrl": "https://bi.im-g.pl/im/a0/d6/1a/z28140960AMP,Wartostarda-w-Poznaniu--Widok-z-mostu-Krolowej-Jad.jpg"
-  },
+  }
 ]
