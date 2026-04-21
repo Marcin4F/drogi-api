@@ -1,27 +1,58 @@
 [
   {
-    "id": "1",
-    "name": "Rusałka Loop",
-    "description": "Świetna trasa biegowa dookoła jeziora Rusałka w Poznaniu. Dystans ok. 4.5 km. Nawierzchnia szutrowa, brak większych wzniesień.",
+    "id": 1,
+    "name": "Pętla wokół Jeziora Maltańskiego",
+    "description": "Klasyczna, w pełni utwardzona (asfalt i kostka) trasa o długości około 5,4 km. Idealna na szybki trening biegowy, oferuje płaski profil, świetne widoki na wodę oraz oświetlenie po zmroku. Najpopularniejsze miejsce dla lokalnych biegaczy.",
     "type": "RUNNING",
-    "imageUrl": "https://wiartel.pl/wp-content/uploads/2022/04/1024px-Jezioro_Nidzkie_2-1024x512.jpg"
+    "imageUrl": ""
   },
   {
-    "id": "2",
+    "id": 2,
     "name": "Wartostrada",
-    "description": "Asfaltowa trasa rowerowa wzdłuż rzeki Warty. Idealna na szybki trening szosowy z dala od ruchu samochodowego.",
-    "type": "CYCLING"
+    "description": "Wygodna, asfaltowa trasa ciągnąca się po obu brzegach Warty. Pozwala na długie, bezkolizyjne bieganie z dala od ruchu ulicznego. Oferuje piękną panoramę centrum miasta, Ostrowa Tumskiego i rzeki.",
+    "type": "RUNNING",
+    "imageUrl": ""
   },
   {
-    "id": "3",
-    "name": "Rezerwat Morasko",
-    "description": "Wymagająca trasa z podbiegami w pobliżu rezerwatu meteorytów. Dużo korzeni i nierówności.",
-    "type": "RUNNING"
+    "id": 3,
+    "name": "Leśne ścieżki Rusałki",
+    "description": "Około 4,3-kilometrowa pętla wokół jeziora Rusałka. W większości miękka, szutrowa i leśna nawierzchnia, co czyni ją idealną dla osób szukających odpoczynku od twardego betonu. Bardzo malownicza i zacieniona latem.",
+    "type": "RUNNING",
+    "imageUrl": ""
   },
   {
-    "id": "4",
-    "name": "Puszcza Zielonka",
-    "description": "Leśna trasa dla rowerów górskich. Dużo piachu i świetne widoki.",
-    "type": "CYCLING"
+    "id": 4,
+    "name": "Alejki Parku Cytadela",
+    "description": "Największy park w Poznaniu oferujący kilometry krzyżujących się, zróżnicowanych alejek. Lekko pofałdowany teren i liczne, zacienione ścieżki sprawiają, że to świetne miejsce na dłuższe wybiegania z elementami podbiegów.",
+    "type": "RUNNING",
+    "imageUrl": ""
+  },
+  {
+    "id": 5,
+    "name": "Rowerem do Wielkopolskiego Parku Narodowego",
+    "description": "Dłuższa trasa prowadząca z południowych granic Poznania w stronę Puszczykowa i serca WPN-u. Oferuje bardzo zróżnicowany teren: leśne ścieżki, szutry i pagórki wokół Jeziora Góreckiego. Wymaga roweru MTB lub gravel.",
+    "type": "CYCLING",
+    "imageUrl": ""
+  },
+  {
+    "id": 6,
+    "name": "Szlakiem trzech jezior: Strzeszynek i Kiekrz",
+    "description": "Przyjemna trasa rowerowa przez północno-zachodnie zielone kliny Poznania. Rozpoczynając od Rusałki, przejeżdża się leśnymi duktami nad Jezioro Strzeszyńskie, a stamtąd do malowniczego, żeglarskiego Jeziora Kierskiego.",
+    "type": "CYCLING",
+    "imageUrl": ""
+  },
+  {
+    "id": 7,
+    "name": "Pierścień Rowerowy (Fragment Północny i Puszcza Zielonka)",
+    "description": "Wymagający odcinek wylotowy z miasta w kierunku Dziewiczej Góry i Puszczy Zielonki. Trasa oferuje gęste lasy, odcinki piaszczyste i jedne z największych przewyższeń w okolicach Poznania. Wybitna trasa dla miłośników jazdy terenowej.",
+    "type": "CYCLING",
+    "imageUrl": ""
+  },
+  {
+    "id": 8,
+    "name": "Wzdłuż Cybiny do Swarzędza",
+    "description": "Spokojna, rodzinna trasa rowerowa zaczynająca się za Jeziorem Maltańskim, prowadząca wschodnim klinem zieleni wzdłuż rzeki Cybiny, aż do Doliny Cybiny i urokliwego Jeziora Swarzędzkiego.",
+    "type": "CYCLING",
+    "imageUrl": ""
   }
 ]
